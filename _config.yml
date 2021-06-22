@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Doc's blog
-description: A retired paediatrician trying to master a new skill.
+title: "Doc's blog"
+description: "A retired paediatrician trying to master a new skill."
 github_username: pieterjooste
 
 # Email and twitter are optional:
