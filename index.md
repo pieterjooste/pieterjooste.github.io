@@ -4,6 +4,8 @@ Hello and welcome to this blog.
 
 ## Doc's blog
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-Pension
-Deployment
+[link to fast.ai](https://www.fast.ai)
+
+##Pension
+
+##Deployment
