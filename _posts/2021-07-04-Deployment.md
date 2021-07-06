@@ -28,7 +28,7 @@ Render was the next option but monthly fee a deterrent. Impressed by builder @an
 
 Seeme.ai founded by Jan van de Poel was the final attempt and at last a successful outcome! Again excellent guidance on forum and fastai course material.
 
-It was a big “Yes” when my model appeared on my mobile phone. app.seeme.ai
+It was a big “Yes” when my model appeared on my mobile phone. [app.seeme.ai](url)
 
 Next is the MNIST database.
 
