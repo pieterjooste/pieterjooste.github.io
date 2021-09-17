@@ -135,3 +135,6 @@ Defining normal ranges and centiles for heart and respiratory rates in infants a
 Australian tertiary hospital paediatric emergency department 1995–2011.
 
 9.Jeremy Howard, Sylvain Gugger. Information 2020, 11(2), 108. fastai: A Layered API for Deep Learning. http://dx.doi.org/10.3390/info11020108
+
+For Jupyter notebook and code: https://medium.com/@pieter.jooste.jp/machine-learning-fastai-triage-ill-baby-6fa28909feee
+
